@@ -14,6 +14,12 @@
 ======
 [![Build Status](https://travis-ci.org/springer-opensource/omelet.svg?branch=master)](https://travis-ci.org/springer-opensource/omelet)
 
+
+## WARNING: this repository is not currently maintained!
+
+**There may be known security issues or just general bit-rot. We hope the code may remain useful to some but we cannot offer any support at this time.**
+
+
 What is Omelet
 --------------
 Very simple yet powerful automation library for **Selenium WebDriver** which uses one of the most popular test runner for UI Automation- **TestNG**
